@@ -37,8 +37,8 @@ const resetbutton = document.querySelector ( "#reset-button");
 resetbutton.addEventListener ( "click", function () {
     T2shotstaken.innerHTML = T2shots =0
     T1shotstaken.innerHTML = T1shots =0
-    T2shots.innerHTML = T1G =0
-    T1shots.innerHTML = T2G =0
+    T2goals.innerHTML = T1G =0
+    T1goals.innerHTML = T2G =0
 
     
 
